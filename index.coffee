@@ -1,7 +1,7 @@
 ddg = require('ddg')
 Telegram = require 'telegram-bot'
 
-tg = new Telegram(process.env.TELEGRAM_BOT_TOKEN)
+tg = new Telegram(process.env.7898648025:AAEznfaTQFrA8rhhgiESZSLmGoOu3PkodKQ)
 options = {
         "useragent": "My duckduckgo app"
         "no_redirects": "1"
